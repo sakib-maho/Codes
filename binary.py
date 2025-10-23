@@ -1,3 +1,7 @@
+# Copyright (c) 2025 sakib-maho
+# Licensed under the MIT License
+# See LICENSE file for details
+
 class Binary:
     def __init__(self, array):
         self.arr = array
